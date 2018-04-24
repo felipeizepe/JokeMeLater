@@ -24,6 +24,8 @@ class NotificationController: NSObject {
 	var isEnabled = false
 	var isEnglishEnabled = false
 	var isPortEnabled = false
+
+	private(set) var isGettingJokes = false
 	
 	//Joke controll
 	
@@ -56,7 +58,7 @@ class NotificationController: NSObject {
 		if !isEnabled || (!isEnglishEnabled && !isPortEnabled ){
 			return
 		}
-		
+		self.isGettingJokes = true
 		self.cancelNotifications()
 		
 		var hourInterval = frequency
@@ -80,7 +82,7 @@ class NotificationController: NSObject {
 				hourInterval += self.frequency
 				
 			}
-			
+			self.isGettingJokes = false
 			DispatchQueue.main.sync {
 				if let delegate = self.waitDelegate {
 					delegate.retrivalDone()

@@ -40,8 +40,8 @@ class ShareViewController: UIViewController {
 	@IBAction func shareCliecked(_ sender: Any) {
 		if let text = receivedJokeText {
 			let linkToStore = NSURL(string: LinkConstants.linkToStore)
-			
-			let activityViewController = UIActivityViewController(activityItems: [linkToStore as Any, text], applicationActivities: nil)
+			let sendText = "\n\n" + text + "\nWant some bad jokes too?\nDownload JokeMeLater on the AppStore!\n"
+			let activityViewController = UIActivityViewController(activityItems: ["\n",linkToStore as Any, sendText,"\n"], applicationActivities: nil)
 			
 			// This lines is for the popover you need to show in iPad
 			activityViewController.popoverPresentationController?.sourceView = (sender as! UIButton)

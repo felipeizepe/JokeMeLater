@@ -40,6 +40,7 @@
                             </containerView>
                             <button opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="260" verticalHuggingPriority="260" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="infoDark" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="E4M-ad-Hzl">
                                 <rect key="frame" x="338" y="33.5" width="22" height="22"/>
+                                <color key="tintColor" red="0.98026622345035253" green="0.96387266630330981" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <state key="normal">
                                     <color key="titleColor" red="0.97829912007329545" green="0.96900101077689815" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                     <color key="titleShadowColor" red="0.99543570788530467" green="0.98859967086808354" blue="0.98713727657071459" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
@@ -311,7 +312,7 @@
                                 <color key="textColor" red="0.36470588235294116" green="0.37254901960784315" blue="0.7803921568627451" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="photo" translatesAutoresizingMaskIntoConstraints="NO" id="7W1-vE-b8k">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="photo" translatesAutoresizingMaskIntoConstraints="NO" id="7W1-vE-b8k">
                                 <rect key="frame" x="10" y="146" width="112.5" height="112.5"/>
                                 <constraints>
                                     <constraint firstAttribute="width" secondItem="7W1-vE-b8k" secondAttribute="height" multiplier="1:1" id="2zd-DM-lYI"/>

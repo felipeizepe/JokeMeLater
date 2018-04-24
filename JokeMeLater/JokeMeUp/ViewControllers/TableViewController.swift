@@ -43,6 +43,12 @@ class TableViewController: UITableViewController {
 		
 		let center = UNUserNotificationCenter.current()
 		center.delegate = self
+		
+		if NotificationController.shared.isGettingJokes {
+			activityIndicator.isHidden = false
+			activityIndicator.startAnimating()
+			cancelButton.isEnabled = false
+		}
 	}
 	
 	override func tableView(_ tableView: UITableView, willDisplayHeaderView view: UIView, forSection section: Int) {
@@ -84,6 +90,7 @@ class TableViewController: UITableViewController {
 		
 		activityIndicator.isHidden = false
 		activityIndicator.startAnimating()
+		cancelButton.isEnabled = false
 		
 		NotificationController.shared.waitDelegate = self
 		
@@ -110,6 +117,8 @@ class TableViewController: UITableViewController {
 			
 			self.activityIndicator.stopAnimating()
 			self.activityIndicator.isHidden = true
+			self.cancelButton.isEnabled = true
+
 			alert.dismiss(animated: true, completion: nil)
 			
 		}))
@@ -205,5 +214,6 @@ extension TableViewController: JokesReceivedDelegate {
 	func retrivalDone() {
 		activityIndicator.stopAnimating()
 		activityIndicator.isHidden = true
+		cancelButton.isEnabled = true
 	}
 }

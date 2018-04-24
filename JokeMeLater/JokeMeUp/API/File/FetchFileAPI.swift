@@ -15,7 +15,8 @@ class FetchFileAPI: FileAPI {
 	internal let webURL = "https://icanhazdadjoke.com/"
 	internal let webURLPT = "https://us-central1-kivson.cloudfunctions.net/charada-aleatoria"
 	internal let headers: HTTPHeaders = [
-		"Accept": "application/json"
+		"Accept": "application/json",
+		"User-Agent":" My Project Git (https://github.com/felipeizepe/JokeMeLater.git)"
 	]
 	
 	func getJoke(completion: @escaping (Bool, String?, Joke?) -> Void) {

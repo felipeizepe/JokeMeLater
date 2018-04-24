@@ -9,7 +9,7 @@
 import Foundation
 
 struct LinkConstants {
-	static let linkToStore = "http//:"
+	static let linkToStore = "http://itunes.apple.com/app/id1369163089"
 }
 
 struct DateConstants {
