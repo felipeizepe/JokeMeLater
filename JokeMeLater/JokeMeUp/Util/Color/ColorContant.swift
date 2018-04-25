@@ -11,6 +11,7 @@ import UIKit
 
 class ColorConstant {
 	
+	/// Main color of the app
 	static let appPurple = #colorLiteral(red: 0.3647058824, green: 0.3725490196, blue: 0.7803921569, alpha: 1)
 	
 }
