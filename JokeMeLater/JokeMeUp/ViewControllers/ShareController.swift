@@ -27,6 +27,7 @@ class ShareViewController: UIViewController {
 	//MARK: Lifecycle
 	override func viewDidLoad() {
 		super.viewDidLoad()
+		
 		if let text = receivedJokeText{
 			self.jokeTextLabel.text = text
 		}

@@ -447,10 +447,10 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="H2d-eS-gei">
-                                <rect key="frame" x="0.0" y="105" width="320" height="142"/>
+                                <rect key="frame" x="0.0" y="105" width="320" height="227"/>
                                 <subviews>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="You spent a day in a well?, well that's a day well spent!" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="5" baselineAdjustment="alignBaselines" minimumFontSize="10" adjustsLetterSpacingToFitWidth="YES" translatesAutoresizingMaskIntoConstraints="NO" id="DQC-an-gem">
-                                        <rect key="frame" x="40" y="40" width="240" height="82"/>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="You spent a day in a well?, well that's a day well spent!" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="20" baselineAdjustment="alignBaselines" minimumFontSize="5" adjustsLetterSpacingToFitWidth="YES" adjustsFontForContentSizeCategory="YES" translatesAutoresizingMaskIntoConstraints="NO" id="DQC-an-gem">
+                                        <rect key="frame" x="20" y="5" width="280" height="217"/>
                                         <fontDescription key="fontDescription" type="boldSystem" pointSize="17"/>
                                         <color key="textColor" red="0.36470588235294116" green="0.37254901960784315" blue="0.7803921568627451" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <nil key="highlightedColor"/>
@@ -458,10 +458,10 @@
                                 </subviews>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <constraints>
-                                    <constraint firstItem="DQC-an-gem" firstAttribute="top" secondItem="H2d-eS-gei" secondAttribute="top" constant="40" id="8Yn-U0-DKZ"/>
-                                    <constraint firstAttribute="trailing" secondItem="DQC-an-gem" secondAttribute="trailing" constant="40" id="ODk-dI-LFH"/>
-                                    <constraint firstAttribute="bottom" secondItem="DQC-an-gem" secondAttribute="bottom" constant="20" id="l5L-FJ-eIt"/>
-                                    <constraint firstItem="DQC-an-gem" firstAttribute="leading" secondItem="H2d-eS-gei" secondAttribute="leading" constant="40" id="yjM-Gf-gkf"/>
+                                    <constraint firstItem="DQC-an-gem" firstAttribute="top" secondItem="H2d-eS-gei" secondAttribute="top" constant="5" id="8Yn-U0-DKZ"/>
+                                    <constraint firstAttribute="trailing" secondItem="DQC-an-gem" secondAttribute="trailing" constant="20" id="ODk-dI-LFH"/>
+                                    <constraint firstAttribute="bottom" secondItem="DQC-an-gem" secondAttribute="bottom" constant="5" id="l5L-FJ-eIt"/>
+                                    <constraint firstItem="DQC-an-gem" firstAttribute="leading" secondItem="H2d-eS-gei" secondAttribute="leading" constant="20" id="yjM-Gf-gkf"/>
                                 </constraints>
                                 <userDefinedRuntimeAttributes>
                                     <userDefinedRuntimeAttribute type="boolean" keyPath="layer.maskToBounds" value="YES"/>
@@ -471,7 +471,7 @@
                                 </userDefinedRuntimeAttributes>
                             </view>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="QxP-Ib-guu">
-                                <rect key="frame" x="126" y="317" width="67" height="59"/>
+                                <rect key="frame" x="126" y="352" width="67" height="59"/>
                                 <state key="normal" image="ShareBoxed"/>
                                 <connections>
                                     <action selector="shareCliecked:" destination="odM-BQ-LZ1" eventType="touchUpInside" id="hs4-SO-kYI"/>
@@ -491,11 +491,11 @@
                             <constraint firstItem="zvU-gc-v4V" firstAttribute="bottom" secondItem="xLk-eT-RvP" secondAttribute="bottom" id="QA1-3S-RTM"/>
                             <constraint firstItem="xLk-eT-RvP" firstAttribute="trailing" secondItem="DKs-hD-5ID" secondAttribute="trailing" constant="15" id="Wnu-aG-EGK"/>
                             <constraint firstItem="QxP-Ib-guu" firstAttribute="centerX" secondItem="H2d-eS-gei" secondAttribute="centerX" id="Y7D-2I-jH0"/>
-                            <constraint firstItem="QxP-Ib-guu" firstAttribute="top" secondItem="H2d-eS-gei" secondAttribute="bottom" constant="70" id="cZK-5w-aeq"/>
+                            <constraint firstItem="QxP-Ib-guu" firstAttribute="top" secondItem="H2d-eS-gei" secondAttribute="bottom" constant="20" id="cZK-5w-aeq"/>
                             <constraint firstItem="DKs-hD-5ID" firstAttribute="leading" secondItem="xLk-eT-RvP" secondAttribute="leading" constant="15" id="pq8-ha-pv8"/>
                             <constraint firstItem="DKs-hD-5ID" firstAttribute="top" secondItem="xLk-eT-RvP" secondAttribute="top" constant="5" id="quM-jp-CJ3"/>
                             <constraint firstItem="zvU-gc-v4V" firstAttribute="trailing" secondItem="xLk-eT-RvP" secondAttribute="trailing" id="rc5-xS-kd8"/>
-                            <constraint firstItem="H2d-eS-gei" firstAttribute="height" secondItem="qN2-hg-lKz" secondAttribute="height" multiplier="0.25" id="rpF-dY-WOa"/>
+                            <constraint firstItem="H2d-eS-gei" firstAttribute="height" secondItem="qN2-hg-lKz" secondAttribute="height" multiplier="0.4" id="rpF-dY-WOa"/>
                             <constraint firstItem="zvU-gc-v4V" firstAttribute="height" secondItem="qN2-hg-lKz" secondAttribute="height" multiplier="0.15" id="vFu-gz-p2K"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="xLk-eT-RvP"/>

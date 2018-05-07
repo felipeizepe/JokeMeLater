@@ -21,6 +21,6 @@ protocol FileAPI {
 	func getJokePT(completion: @escaping (_ success: Bool, _ message: String?, _ joke: Joke?) -> Void)
 	
 	func getJokePromise() -> Promise<Joke>
-	func getPTJokePromise() -> Promise<Joke>
+	func getPTJokePromise() -> Promise<[Joke]>
 	
 }

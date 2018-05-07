@@ -76,6 +76,11 @@ class TableViewController: UITableViewController {
 			return
 		}
 		
+		if NotificationController.shared.isGettingJokes {
+			showErrorMessage(message: "Alredy currently getting Jokes")
+			return
+		}
+		
 		if !Reachability.isConnectedToNetwork() {
 			let noInternetAlert = UIAlertController(title: "No Connection Found", message: "Please connect to the internet so that the jokes can be retrieved", preferredStyle: .alert)
 			

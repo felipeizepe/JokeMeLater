@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		3AC7B0AA58EC2D1358DED56A /* Pods_JokeMeUp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3B14BE5D8DA1A87231861201 /* Pods_JokeMeUp.framework */; };
+		6A3A2246209CA1C1003851F5 /* jokesPT.JSON in Resources */ = {isa = PBXBuildFile; fileRef = 6A3A2245209CA1C1003851F5 /* jokesPT.JSON */; };
 		6A7775FE20402D1300D2563D /* FileAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A7775FD20402D1300D2563D /* FileAPI.swift */; };
 		6A77760320402EAA00D2563D /* JokeGetterMock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A77760220402EAA00D2563D /* JokeGetterMock.swift */; };
 		6A7BD8C52076578700DCD122 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A7BD8C42076578700DCD122 /* TableViewController.swift */; };
@@ -24,7 +25,6 @@
 		6A86C6DD2080D4200042CC5E /* ColorContant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A86C6DC2080D4200042CC5E /* ColorContant.swift */; };
 		6A94661F2040343300D1B524 /* NotificationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A94661E2040343300D1B524 /* NotificationController.swift */; };
 		6A946621204055BA00D1B524 /* jokesENG.json in Resources */ = {isa = PBXBuildFile; fileRef = 6A946620204055BA00D1B524 /* jokesENG.json */; };
-		6A946623204057FD00D1B524 /* jokesPT.json in Resources */ = {isa = PBXBuildFile; fileRef = 6A946622204057FD00D1B524 /* jokesPT.json */; };
 		6A9FA4A520779B6E001C3902 /* Reachability.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A9FA4A420779B6E001C3902 /* Reachability.swift */; };
 		6ABF6FB42049A13300BC0520 /* TimeUtils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ABF6FB32049A13300BC0520 /* TimeUtils.swift */; };
 		6ABF6FB82049A27300BC0520 /* UserDefaultConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ABF6FB72049A27300BC0520 /* UserDefaultConstants.swift */; };
@@ -37,6 +37,7 @@
 /* Begin PBXFileReference section */
 		27CC957659E8AC737DC602A9 /* Pods-JokeMeUp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-JokeMeUp.release.xcconfig"; path = "Pods/Target Support Files/Pods-JokeMeUp/Pods-JokeMeUp.release.xcconfig"; sourceTree = "<group>"; };
 		3B14BE5D8DA1A87231861201 /* Pods_JokeMeUp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_JokeMeUp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		6A3A2245209CA1C1003851F5 /* jokesPT.JSON */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = jokesPT.JSON; path = ../jokesBR/jokesBR/jokesPT.JSON; sourceTree = "<group>"; };
 		6A7775FD20402D1300D2563D /* FileAPI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileAPI.swift; sourceTree = "<group>"; };
 		6A77760220402EAA00D2563D /* JokeGetterMock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JokeGetterMock.swift; sourceTree = "<group>"; };
 		6A7BD8C42076578700DCD122 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
@@ -55,7 +56,6 @@
 		6A86C6DC2080D4200042CC5E /* ColorContant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorContant.swift; sourceTree = "<group>"; };
 		6A94661E2040343300D1B524 /* NotificationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationController.swift; sourceTree = "<group>"; };
 		6A946620204055BA00D1B524 /* jokesENG.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = jokesENG.json; path = JokeMeUp/jokesENG.json; sourceTree = "<group>"; };
-		6A946622204057FD00D1B524 /* jokesPT.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = jokesPT.json; path = JokeMeUp/jokesPT.json; sourceTree = "<group>"; };
 		6A9FA4A420779B6E001C3902 /* Reachability.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Reachability.swift; sourceTree = "<group>"; };
 		6ABF6FB2204999C200BC0520 /* JokeMeUp.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = JokeMeUp.entitlements; sourceTree = "<group>"; };
 		6ABF6FB32049A13300BC0520 /* TimeUtils.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeUtils.swift; sourceTree = "<group>"; };
@@ -106,7 +106,7 @@
 		6A7C17C7203F041000B26C8E = {
 			isa = PBXGroup;
 			children = (
-				6A946622204057FD00D1B524 /* jokesPT.json */,
+				6A3A2245209CA1C1003851F5 /* jokesPT.JSON */,
 				6A946620204055BA00D1B524 /* jokesENG.json */,
 				6A7C17D2203F041000B26C8E /* JokeMeUp */,
 				6A7C17D1203F041000B26C8E /* Products */,
@@ -355,7 +355,7 @@
 			files = (
 				6A7C17DE203F041000B26C8E /* LaunchScreen.storyboard in Resources */,
 				6A7C17DB203F041000B26C8E /* Assets.xcassets in Resources */,
-				6A946623204057FD00D1B524 /* jokesPT.json in Resources */,
+				6A3A2246209CA1C1003851F5 /* jokesPT.JSON in Resources */,
 				6A7C17D9203F041000B26C8E /* Main.storyboard in Resources */,
 				6A946621204055BA00D1B524 /* jokesENG.json in Resources */,
 				6A7C17F0203F2ACC00B26C8E /* Trickster-Reg.ttf in Resources */,

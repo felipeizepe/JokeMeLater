@@ -26,11 +26,12 @@ class NotificationController: NSObject {
 	var isPortEnabled = false
 
 	private(set) var isGettingJokes = false
-	
+
 	//Joke controll
 	
 	var frequency : Int = 3
 	weak var waitDelegate: JokesReceivedDelegate?
+	var ptJokes: [Joke]?
 	//
 	
 	//MARK: Life Cycle
@@ -121,10 +122,17 @@ class NotificationController: NSObject {
 	}
 	
 	func setPTJoke(date: DateComponents){
-		let joke = SharedFileAPI.shared.getPTJokePromise()
-		
 		do {
-			self.setNotification(joke: try joke.wait(), date: date)
+
+		if self.ptJokes == nil {
+			 self.ptJokes = try SharedFileAPI.shared.getPTJokePromise().wait()
+		}
+		
+		let index = Int(arc4random_uniform(UInt32(ptJokes!.count)))
+		let joke = ptJokes![index]
+		
+		
+			self.setNotification(joke: joke, date: date)
 		} catch {
 			print(error)
 		}

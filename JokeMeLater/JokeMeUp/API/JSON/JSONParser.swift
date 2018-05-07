@@ -22,7 +22,8 @@ class JSONParser {
 	
 	static func fromDict(jokeDictPT dict: [String:Any]) -> Joke {
 		
-		let id = dict[JSONConstants.JokePT.id] as! Int
+		//let id = dict[JSONConstants.JokePT.id] as! Int
+		let id = 01
 		var text = dict[JSONConstants.JokePT.question] as! String
 		text.append("\n\(dict[JSONConstants.JokePT.awnser] as! String)")
 		
