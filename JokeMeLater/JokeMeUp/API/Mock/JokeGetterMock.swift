@@ -11,20 +11,13 @@ import PromiseKit
 
 class JokeGetterMock : FileAPI {
 	
-	
-	func getPTJokePromise() -> Promise<Joke> {
-		return Promise<Joke>{ fulfiller in
-			fulfiller.fulfill(Joke(id: "01", text: "YOU SPENT A DAY IN A WELL?, well, that's a day well spent!", status: 200, title: "Hora Da Piada!"))
+	func getENGJokesPromise() -> Promise<[Joke]> {
+		return Promise<[Joke]>{ fulfiller in
+			fulfiller.fulfill([Joke(id: "01", text: "YOU SPENT A DAY IN A WELL?, well, that's a day well spent!", status: 200, title: "Joke Time!")])
 		}
 	}
 	
-	func getJokePromise() -> Promise<Joke> {
-		return Promise<Joke>{ fulfiller in
-				fulfiller.fulfill(Joke(id: "01", text: "YOU SPENT A DAY IN A WELL?, well, that's a day well spent!", status: 200, title: "Joke Time!"))
-			}
-	}
-	
-	func getPTJokePromise() -> Promise<[Joke]> {
+	func getPTJokesPromise() -> Promise<[Joke]> {
 		return Promise<[Joke]>{ fulfiller in
 			fulfiller.fulfill([Joke(id: "01", text: "YOU SPENT A DAY IN A WELL?, well, that's a day well spent!", status: 200, title: "Joke Time!")])
 		}

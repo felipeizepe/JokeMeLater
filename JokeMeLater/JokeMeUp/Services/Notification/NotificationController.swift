@@ -32,6 +32,7 @@ class NotificationController: NSObject {
 	var frequency : Int = 3
 	weak var waitDelegate: JokesReceivedDelegate?
 	var ptJokes: [Joke]?
+	var engJokes: [Joke]?
 	//
 	
 	//MARK: Life Cycle
@@ -112,10 +113,17 @@ class NotificationController: NSObject {
 	}
 	
 	func setENGJoke(date: DateComponents){
-		let joke = SharedFileAPI.shared.getJokePromise()
-
 		do {
-			self.setNotification(joke: try joke.wait(), date: date)
+			
+			if self.engJokes == nil {
+				self.engJokes = try SharedFileAPI.shared.getENGJokesPromise().wait()
+			}
+			
+			let index = Int(arc4random_uniform(UInt32(engJokes!.count)))
+			let joke = engJokes![index]
+			
+			
+			self.setNotification(joke: joke, date: date)
 		} catch {
 			print(error)
 		}
@@ -125,7 +133,7 @@ class NotificationController: NSObject {
 		do {
 
 		if self.ptJokes == nil {
-			 self.ptJokes = try SharedFileAPI.shared.getPTJokePromise().wait()
+			 self.ptJokes = try SharedFileAPI.shared.getPTJokesPromise().wait()
 		}
 		
 		let index = Int(arc4random_uniform(UInt32(ptJokes!.count)))

@@ -19,8 +19,8 @@ class SharedFileAPI {
 protocol FileAPI {
 	func getJoke(completion: @escaping (_ success: Bool, _ message: String?, _ joke: Joke?) -> Void)
 	func getJokePT(completion: @escaping (_ success: Bool, _ message: String?, _ joke: Joke?) -> Void)
-	
-	func getJokePromise() -> Promise<Joke>
-	func getPTJokePromise() -> Promise<[Joke]>
+
+	func getENGJokesPromise() -> Promise<[Joke]>
+	func getPTJokesPromise() -> Promise<[Joke]>
 	
 }

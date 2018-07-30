@@ -529,12 +529,6 @@
       "createdAt" : "2017-09-02 06:07:15.595 +00:00"
     },
     {
-      "pergunta" : "Qual a fruta preferida dos anões?",
-      "resposta" : "Banana nanica.",
-      "updatedAt" : "2017-09-02 06:07:15.596 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.596 +00:00"
-    },
-    {
       "pergunta" : "O ursinho levou um tombo e caiu. Qual é o nome do desenho?",
       "resposta" : "O Ursinho Puuuuuuf.",
       "updatedAt" : "2017-09-02 06:07:15.596 +00:00",
@@ -1069,12 +1063,6 @@
       "createdAt" : "2017-09-02 06:07:15.609 +00:00"
     },
     {
-      "pergunta" : "Qual é o país que tem mais comida no natal?",
-      "resposta" : "O Peru.",
-      "updatedAt" : "2017-09-02 06:07:15.609 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.609 +00:00"
-    },
-    {
       "pergunta" : "Qual é o jogador de futebol que adora abrir portas?",
       "resposta" : "Xavi.",
       "updatedAt" : "2017-09-02 06:07:15.609 +00:00",
@@ -1097,18 +1085,6 @@
       "resposta" : "No eleva-dor.",
       "updatedAt" : "2017-09-02 06:07:15.609 +00:00",
       "createdAt" : "2017-09-02 06:07:15.609 +00:00"
-    },
-    {
-      "pergunta" : "Por que no dia dos namorados o comércio vende mais que no dia das mães?",
-      "resposta" : "Porque mãe a gente tem uma só.",
-      "updatedAt" : "2017-09-02 06:07:15.610 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.610 +00:00"
-    },
-    {
-      "pergunta" : "Na frase \"João foi mal em todas as provas\", onde está o sujeito?",
-      "resposta" : "Na internet, com certeza.",
-      "updatedAt" : "2017-09-02 06:07:15.610 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.610 +00:00"
     },
     {
       "pergunta" : "O que é o que é voa sem ter asas e chora sem ter olhos?",
@@ -1257,12 +1233,6 @@
     {
       "pergunta" : "O que a formiga falou para a barata?",
       "resposta" : "O seu marido é maior barato.",
-      "updatedAt" : "2017-09-02 06:07:15.611 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.611 +00:00"
-    },
-    {
-      "pergunta" : "Nas Olimpíadas dos bichos na selva qual o prêmio que os macacos almejam?",
-      "resposta" : "A banana ouro e a banana prata.",
       "updatedAt" : "2017-09-02 06:07:15.611 +00:00",
       "createdAt" : "2017-09-02 06:07:15.611 +00:00"
     },
@@ -1513,18 +1483,6 @@
       "createdAt" : "2017-09-02 06:07:15.613 +00:00"
     },
     {
-      "pergunta" : "O que o aposentado tem entre as pernas?",
-      "resposta" : "Outro aposentado.",
-      "updatedAt" : "2017-09-02 06:07:15.613 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.613 +00:00"
-    },
-    {
-      "pergunta" : "Por que o cego não dá opinião?",
-      "resposta" : "Porque ele não tem ponto de vista.",
-      "updatedAt" : "2017-09-02 06:07:15.613 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.613 +00:00"
-    },
-    {
       "pergunta" : "Qual o suco preferido dos primatas?",
       "resposta" : "OrangoTANG.",
       "updatedAt" : "2017-09-02 06:07:15.613 +00:00",
@@ -1533,12 +1491,6 @@
     {
       "pergunta" : "O rapaz terminou com a garota e depois voltou com ela, qual é o nome do filme?",
       "resposta" : "O Ex-terminador.",
-      "updatedAt" : "2017-09-02 06:07:15.613 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.613 +00:00"
-    },
-    {
-      "pergunta" : "O carro do anão estragou durante o percurso. Por que ele não foi na mecânica?",
-      "resposta" : "Porque lá é mecânica de autos.",
       "updatedAt" : "2017-09-02 06:07:15.613 +00:00",
       "createdAt" : "2017-09-02 06:07:15.613 +00:00"
     },
@@ -2107,12 +2059,6 @@
       "createdAt" : "2017-09-02 06:07:15.621 +00:00"
     },
     {
-      "pergunta" : "Quem canta a música \"Eu vou, eu vou, pra casa agora eu vou...\"?",
-      "resposta" : "Os seis anões, porque um anão é mudo.",
-      "updatedAt" : "2017-09-02 06:07:15.621 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.621 +00:00"
-    },
-    {
       "pergunta" : "Você está em uma sala escura e só tem um fósforo. Existe uma lareira e uma vela, o que você acenderia primeiro?",
       "resposta" : "O fósforo, é claro.",
       "updatedAt" : "2017-09-02 06:07:15.621 +00:00",
@@ -2139,12 +2085,6 @@
     {
       "pergunta" : "Onde o boi mais sofre?",
       "resposta" : "Na fábrica da Friboi, porque lá Só-Friboi.",
-      "updatedAt" : "2017-09-02 06:07:15.621 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.621 +00:00"
-    },
-    {
-      "pergunta" : "Como se diz dengue em japonês?",
-      "resposta" : "Moskitu Kemata.",
       "updatedAt" : "2017-09-02 06:07:15.621 +00:00",
       "createdAt" : "2017-09-02 06:07:15.621 +00:00"
     },
@@ -2737,12 +2677,6 @@
       "createdAt" : "2017-09-02 06:07:15.629 +00:00"
     },
     {
-      "pergunta" : "Quem foi a primeira pessoa a dizer que \"os homens são todos iguais\"?",
-      "resposta" : "Uma chinesa que perdeu sua marido na multidão.",
-      "updatedAt" : "2017-09-02 06:07:15.629 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.629 +00:00"
-    },
-    {
       "pergunta" : "Qual é a melhor maneira de machucar alguém com palavras?",
       "resposta" : "Batendo nela com um dicionário.",
       "updatedAt" : "2017-09-02 06:07:15.629 +00:00",
@@ -2773,12 +2707,6 @@
       "createdAt" : "2017-09-02 06:07:15.629 +00:00"
     },
     {
-      "pergunta" : "O que o pintinho gay disse quando nasceu?",
-      "resposta" : "Choquei!",
-      "updatedAt" : "2017-09-02 06:07:15.629 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.629 +00:00"
-    },
-    {
       "pergunta" : "O que é que nasce no campo, cria em verdes laços, chora por ela quem faz ela em pedaços?",
       "resposta" : "Cebola.",
       "updatedAt" : "2017-09-02 06:07:15.629 +00:00",
@@ -2787,12 +2715,6 @@
     {
       "pergunta" : "Por que a vaca não vai na academia?",
       "resposta" : "Porque ela já é malhada.",
-      "updatedAt" : "2017-09-02 06:07:15.629 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.629 +00:00"
-    },
-    {
-      "pergunta" : "Qual o instrumento musical mais odiado pelos anões?",
-      "resposta" : "Contrabaixo.",
       "updatedAt" : "2017-09-02 06:07:15.629 +00:00",
       "createdAt" : "2017-09-02 06:07:15.629 +00:00"
     },
@@ -2853,12 +2775,6 @@
     {
       "pergunta" : "O que a panela falou para a pipoca?",
       "resposta" : "A minha bunda que queima e você que pula?",
-      "updatedAt" : "2017-09-02 06:07:15.630 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.630 +00:00"
-    },
-    {
-      "pergunta" : "Como se chama o estado em que a água se evapora rápido?",
-      "resposta" : "São Paulo.",
       "updatedAt" : "2017-09-02 06:07:15.630 +00:00",
       "createdAt" : "2017-09-02 06:07:15.630 +00:00"
     },
@@ -3325,12 +3241,6 @@
       "createdAt" : "2017-09-02 06:07:15.632 +00:00"
     },
     {
-      "pergunta" : "O que nasce preto, cresce branco e no final vira cinza?",
-      "resposta" : "Michael Jackson.",
-      "updatedAt" : "2017-09-02 06:07:15.632 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.632 +00:00"
-    },
-    {
       "pergunta" : "O que a múmia disse para a outra múmia que estava cheia de problemas?",
       "resposta" : "Você está toda enrolada!",
       "updatedAt" : "2017-09-02 06:07:15.632 +00:00",
@@ -3463,12 +3373,6 @@
       "createdAt" : "2017-09-02 06:07:15.633 +00:00"
     },
     {
-      "pergunta" : "O que o \"c\" disse para o \"ç\"?",
-      "resposta" : "Cagando aí, né?",
-      "updatedAt" : "2017-09-02 06:07:15.633 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.633 +00:00"
-    },
-    {
       "pergunta" : "O que passa todo dia na sua frente mas você não vê?",
       "resposta" : "O vento.",
       "updatedAt" : "2017-09-02 06:07:15.633 +00:00",
@@ -3531,12 +3435,6 @@
     {
       "pergunta" : "Por que o prego é bem educado?",
       "resposta" : "Porque ele nunca entra sem bater.",
-      "updatedAt" : "2017-09-02 06:07:15.634 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.634 +00:00"
-    },
-    {
-      "pergunta" : "Por que o pênis é o primeiro órgão do corpo a se aposentar?",
-      "resposta" : "Porque o trabalho dele é foda.",
       "updatedAt" : "2017-09-02 06:07:15.634 +00:00",
       "createdAt" : "2017-09-02 06:07:15.634 +00:00"
     },
@@ -3727,12 +3625,6 @@
       "createdAt" : "2017-09-02 06:07:15.635 +00:00"
     },
     {
-      "pergunta" : "O que é que o açúcar disse para o café?",
-      "resposta" : "Neguinho, é por você que eu me derreto.",
-      "updatedAt" : "2017-09-02 06:07:15.635 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.635 +00:00"
-    },
-    {
       "pergunta" : "O que é o que é, tem rabo de porco, tem corpo de porco, tem orelha de porco, tem perna de porco, mas não é porco?",
       "resposta" : "A porca.",
       "updatedAt" : "2017-09-02 06:07:15.635 +00:00",
@@ -3877,12 +3769,6 @@
       "createdAt" : "2017-09-02 06:07:15.636 +00:00"
     },
     {
-      "pergunta" : "Qual é o tipo de conexão dos gordos?",
-      "resposta" : "Banda larga.",
-      "updatedAt" : "2017-09-02 06:07:15.636 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.636 +00:00"
-    },
-    {
       "pergunta" : "Qual é a palavra que tem apenas 3 letras, mas acaba com tudo?",
       "resposta" : "Fim.",
       "updatedAt" : "2017-09-02 06:07:15.636 +00:00",
@@ -3979,7 +3865,7 @@
       "createdAt" : "2017-09-02 06:07:15.637 +00:00"
     },
     {
-      "pergunta" : "O que é que geralmente tem um tom avermelhado, os homens gosta de socar com força, mas não grita de dor?",
+      "pergunta" : "O que é que geralmente tem um tom avermelhado, os homens gostam de socar com força, mas não gritam de dor?",
       "resposta" : "O saco de boxe.",
       "updatedAt" : "2017-09-02 06:07:15.637 +00:00",
       "createdAt" : "2017-09-02 06:07:15.637 +00:00"
@@ -4183,12 +4069,6 @@
       "createdAt" : "2017-09-02 06:07:15.638 +00:00"
     },
     {
-      "pergunta" : "Como dividir 5 ovos pra 3 pessoas, para que cada uma das pessoas fique com 3 ovos cada?",
-      "resposta" : "1 ovo pra cada homem e 3 para a mulher.",
-      "updatedAt" : "2017-09-02 06:07:15.638 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.638 +00:00"
-    },
-    {
       "pergunta" : "O que vem no fim do infinito?",
       "resposta" : "A letra \"O\".",
       "updatedAt" : "2017-09-02 06:07:15.638 +00:00",
@@ -4327,12 +4207,6 @@
       "createdAt" : "2017-09-02 06:07:15.638 +00:00"
     },
     {
-      "pergunta" : "Tinha um velhinho no bairro em que moro que era gay. Qual é o nome do filme?",
-      "resposta" : "O Senhor dá o Anel.",
-      "updatedAt" : "2017-09-02 06:07:15.638 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.638 +00:00"
-    },
-    {
       "pergunta" : "O que é, o que é, que sempre cai, mas não levanta?",
       "resposta" : "A folha.",
       "updatedAt" : "2017-09-02 06:07:15.638 +00:00",
@@ -4451,12 +4325,6 @@
       "resposta" : "A unha.",
       "updatedAt" : "2017-09-02 06:07:15.639 +00:00",
       "createdAt" : "2017-09-02 06:07:15.639 +00:00"
-    },
-    {
-      "pergunta" : "Qual a semelhança entre 99 reais e um Japonês?",
-      "resposta" : "Os dois são quase cem pau.",
-      "updatedAt" : "2017-09-02 06:07:15.640 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.640 +00:00"
     },
     {
       "pergunta" : "O que é que o Ken coloca na comida?",
@@ -4597,12 +4465,6 @@
       "createdAt" : "2017-09-02 06:07:15.640 +00:00"
     },
     {
-      "pergunta" : "Qual a diferença entre uma pizza e uma puta?",
-      "resposta" : "É que a pizza só dá pra 8, a puta consegue dar pra todo mundo.",
-      "updatedAt" : "2017-09-02 06:07:15.640 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.640 +00:00"
-    },
-    {
       "pergunta" : "Qual é o carro que todo mundo consegue dirigir?",
       "resposta" : "O carrinho de mão.",
       "updatedAt" : "2017-09-02 06:07:15.640 +00:00",
@@ -4693,12 +4555,6 @@
       "createdAt" : "2017-09-02 06:07:15.641 +00:00"
     },
     {
-      "pergunta" : "O que é piranha mas não é peixe, é vaca mas não muge?",
-      "resposta" : "As tuas amiguinhas.",
-      "updatedAt" : "2017-09-02 06:07:15.641 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.641 +00:00"
-    },
-    {
       "pergunta" : "Qual é o remédio do Ayrton Senna?",
       "resposta" : "O Buscopan pam pam pam pam pam...",
       "updatedAt" : "2017-09-02 06:07:15.641 +00:00",
@@ -4725,12 +4581,6 @@
     {
       "pergunta" : "Como se faz para evitar filhos durante uma relação sexual?",
       "resposta" : "Feche a porta do quarto.",
-      "updatedAt" : "2017-09-02 06:07:15.641 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.641 +00:00"
-    },
-    {
-      "pergunta" : "O que é, o que é, se pega pelo pau e a saia levanta?",
-      "resposta" : "O guarda-chuva.",
       "updatedAt" : "2017-09-02 06:07:15.641 +00:00",
       "createdAt" : "2017-09-02 06:07:15.641 +00:00"
     },
@@ -4897,12 +4747,6 @@
       "createdAt" : "2017-09-02 06:07:15.642 +00:00"
     },
     {
-      "pergunta" : "Por que os pintores e as costureiras têm que passar pelo purgatório quando morrem?",
-      "resposta" : "Porque eles pintam e bordam.",
-      "updatedAt" : "2017-09-02 06:07:15.642 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.642 +00:00"
-    },
-    {
       "pergunta" : "Por que a fruta cai do pé?",
       "resposta" : "Porque não tem escada para descer.",
       "updatedAt" : "2017-09-02 06:07:15.642 +00:00",
@@ -4993,12 +4837,6 @@
       "createdAt" : "2017-09-02 06:07:15.643 +00:00"
     },
     {
-      "pergunta" : "O que é, o que é. Tem um saco mole e um pau duro?",
-      "resposta" : "Coador de café de pano.",
-      "updatedAt" : "2017-09-02 06:07:15.643 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.643 +00:00"
-    },
-    {
       "pergunta" : "O que é, o que é, quanto mais se perde, mais se tem?",
       "resposta" : "O sono.",
       "updatedAt" : "2017-09-02 06:07:15.643 +00:00",
@@ -5065,12 +4903,6 @@
       "createdAt" : "2017-09-02 06:07:15.643 +00:00"
     },
     {
-      "pergunta" : "O que a merda postou no Facebook?",
-      "resposta" : "Tô saindo aqui.",
-      "updatedAt" : "2017-09-02 06:07:15.643 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.643 +00:00"
-    },
-    {
       "pergunta" : "O que é, o que é que deixa todo mundo ver através da parede?",
       "resposta" : "A janela.",
       "updatedAt" : "2017-09-02 06:07:15.643 +00:00",
@@ -5079,12 +4911,6 @@
     {
       "pergunta" : "Por que a chuva pegou o ônibus?",
       "resposta" : "Porque era chuva passageira.",
-      "updatedAt" : "2017-09-02 06:07:15.643 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.643 +00:00"
-    },
-    {
-      "pergunta" : "O que é, o que é que não tem porta, nem janela, mas tem um monte de neguinho dentro?",
-      "resposta" : "O Mamão.",
       "updatedAt" : "2017-09-02 06:07:15.643 +00:00",
       "createdAt" : "2017-09-02 06:07:15.643 +00:00"
     },
@@ -5137,20 +4963,8 @@
       "createdAt" : "2017-09-02 06:07:15.644 +00:00"
     },
     {
-      "pergunta" : "Por que o anões gostam de ser hospitalizados?",
-      "resposta" : "Para receberem alta.",
-      "updatedAt" : "2017-09-02 06:07:15.644 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.644 +00:00"
-    },
-    {
       "pergunta" : "Quem é o pai do carro?",
       "resposta" : "O painel.",
-      "updatedAt" : "2017-09-02 06:07:15.644 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.644 +00:00"
-    },
-    {
-      "pergunta" : "Por que o anãozinho atravessa a rua correndo?",
-      "resposta" : "Para pegar embalo para subir no meio fio.",
       "updatedAt" : "2017-09-02 06:07:15.644 +00:00",
       "createdAt" : "2017-09-02 06:07:15.644 +00:00"
     },
@@ -5207,12 +5021,6 @@
       "resposta" : "Pika Pika.",
       "updatedAt" : "2017-09-02 06:07:15.644 +00:00",
       "createdAt" : "2017-09-02 06:07:15.644 +00:00"
-    },
-    {
-      "pergunta" : "Como as testemunhas de jeová são chamadas no japão?",
-      "resposta" : "Inxexion de xaco.",
-      "updatedAt" : "2017-09-02 06:07:15.645 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.645 +00:00"
     },
     {
       "pergunta" : "Qual é a marca do carro do Mogli?",
@@ -5521,12 +5329,6 @@
       "createdAt" : "2017-09-02 06:07:15.646 +00:00"
     },
     {
-      "pergunta" : "O que a manteiga disse para o café?",
-      "resposta" : "Quando vejo esse negão eu me derreto toda.",
-      "updatedAt" : "2017-09-02 06:07:15.647 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.647 +00:00"
-    },
-    {
       "pergunta" : "O que uma exportadora e a sua opinião têm em comum?",
       "resposta" : "Nenhuma das duas importa.",
       "updatedAt" : "2017-09-02 06:07:15.647 +00:00",
@@ -5547,12 +5349,6 @@
     {
       "pergunta" : "Qual é a operadora de telefonia do Kuduro?",
       "resposta" : "Oi, Oi, Oi.",
-      "updatedAt" : "2017-09-02 06:07:15.647 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.647 +00:00"
-    },
-    {
-      "pergunta" : "Como se diz AIDS em japonês?",
-      "resposta" : "Kukmata.",
       "updatedAt" : "2017-09-02 06:07:15.647 +00:00",
       "createdAt" : "2017-09-02 06:07:15.647 +00:00"
     },
@@ -5629,20 +5425,8 @@
       "createdAt" : "2017-09-02 06:07:15.647 +00:00"
     },
     {
-      "pergunta" : "O que Stephen Hawking disse quando o computador dele estragou?",
-      "resposta" : "Nada.",
-      "updatedAt" : "2017-09-02 06:07:15.647 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.647 +00:00"
-    },
-    {
       "pergunta" : "Comecei a fazer um churrasco, mas a carne começou a cantar funk. Qual o tipo de corte da carne?",
       "resposta" : "Mr. al-Catra.",
-      "updatedAt" : "2017-09-02 06:07:15.647 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.647 +00:00"
-    },
-    {
-      "pergunta" : "O que é um são paulino dentro da geladeira?",
-      "resposta" : "Um Gaytorade.",
       "updatedAt" : "2017-09-02 06:07:15.647 +00:00",
       "createdAt" : "2017-09-02 06:07:15.647 +00:00"
     },
@@ -5755,12 +5539,6 @@
       "createdAt" : "2017-09-02 06:07:15.648 +00:00"
     },
     {
-      "pergunta" : "Um menino matou 5 moscas e afirmou que eram 3 machos e 2 fêmeas. Como ele descobriu?",
-      "resposta" : "3 estavam na lata de cerveja, e 2 no telefone.",
-      "updatedAt" : "2017-09-02 06:07:15.648 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.648 +00:00"
-    },
-    {
       "pergunta" : "Qual é a diferença entre a fita adesiva e o avião?",
       "resposta" : "A fita adesiva cola e o avião decola.",
       "updatedAt" : "2017-09-02 06:07:15.648 +00:00",
@@ -5859,18 +5637,6 @@
     {
       "pergunta" : "Por que o porco anda com a cabeça baixa?",
       "resposta" : "Porque tem vergonha da mãe que é uma porca.",
-      "updatedAt" : "2017-09-02 06:07:15.648 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.648 +00:00"
-    },
-    {
-      "pergunta" : "Como se chama o perfume do japônes que nunca toma banho?",
-      "resposta" : "Inhakaphura.",
-      "updatedAt" : "2017-09-02 06:07:15.648 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.648 +00:00"
-    },
-    {
-      "pergunta" : "Como se chama o japonês que caiu no balaio de caqui?",
-      "resposta" : "Massaro Kaki Kabunda.",
       "updatedAt" : "2017-09-02 06:07:15.648 +00:00",
       "createdAt" : "2017-09-02 06:07:15.648 +00:00"
     },
@@ -6193,18 +5959,6 @@
       "createdAt" : "2017-09-02 06:07:15.650 +00:00"
     },
     {
-      "pergunta" : "Qual é a diferença entre uma hambúrguer e uma piriguete?",
-      "resposta" : "O hambúrguer nunca é 100% vaca.",
-      "updatedAt" : "2017-09-02 06:07:15.650 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.650 +00:00"
-    },
-    {
-      "pergunta" : "Preta Gil me chamou para sair. Qual o nome do filme?",
-      "resposta" : "Arraste-me para o Inferno.",
-      "updatedAt" : "2017-09-02 06:07:15.650 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.650 +00:00"
-    },
-    {
       "pergunta" : "A laranja foi ao médico com tosse seca e febre. Qual o diagnóstico?",
       "resposta" : "Larangite.",
       "updatedAt" : "2017-09-02 06:07:15.650 +00:00",
@@ -6265,12 +6019,6 @@
       "createdAt" : "2017-09-02 06:07:15.651 +00:00"
     },
     {
-      "pergunta" : "Como se faz para reconhecer um viado caçando uma onça?",
-      "resposta" : "Ele fica agachado esperando a pintada.",
-      "updatedAt" : "2017-09-02 06:07:15.651 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.651 +00:00"
-    },
-    {
       "pergunta" : "Por que a salsicha espirra?",
       "resposta" : "Porque ela não é Sadia.",
       "updatedAt" : "2017-09-02 06:07:15.651 +00:00",
@@ -6313,12 +6061,6 @@
       "createdAt" : "2017-09-02 06:07:15.651 +00:00"
     },
     {
-      "pergunta" : "Um gordo e um magro se jogam de um prédio. Quem chega no chão primeiro?",
-      "resposta" : "O magro. Porque o gordo parou pra recuperar o fôlego.",
-      "updatedAt" : "2017-09-02 06:07:15.651 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.651 +00:00"
-    },
-    {
       "pergunta" : "Qual o prato preferido dos gulosos?",
       "resposta" : "O prato bem cheio.",
       "updatedAt" : "2017-09-02 06:07:15.651 +00:00",
@@ -6351,18 +6093,6 @@
     {
       "pergunta" : "O que desce sorrindo e sobe chorando?",
       "resposta" : "O balde quando vai pegar água do poço.",
-      "updatedAt" : "2017-09-02 06:07:15.651 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.651 +00:00"
-    },
-    {
-      "pergunta" : "Qual galinha é mais esperta, a branca ou a preta?",
-      "resposta" : "A preta, porque ela consegue botar ovo branco. Agora pede pra galinha branca botar ovo preto!",
-      "updatedAt" : "2017-09-02 06:07:15.651 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.651 +00:00"
-    },
-    {
-      "pergunta" : "Por que os japoneses são bons com computadores?",
-      "resposta" : "Porque eles já nascem com um micro entre as pernas.",
       "updatedAt" : "2017-09-02 06:07:15.651 +00:00",
       "createdAt" : "2017-09-02 06:07:15.651 +00:00"
     },
@@ -6589,12 +6319,6 @@
       "createdAt" : "2017-09-02 06:07:15.653 +00:00"
     },
     {
-      "pergunta" : "Por que o anão não pode lutar boxe?",
-      "resposta" : "Porque ele só dá golpe baixo.",
-      "updatedAt" : "2017-09-02 06:07:15.653 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.653 +00:00"
-    },
-    {
       "pergunta" : "Por que não falta energia no quartel?",
       "resposta" : "Porque todo Cabo já foi Soldado.",
       "updatedAt" : "2017-09-02 06:07:15.653 +00:00",
@@ -6603,12 +6327,6 @@
     {
       "pergunta" : "Quem é o dono da horta?",
       "resposta" : "O Seu Nôra.",
-      "updatedAt" : "2017-09-02 06:07:15.653 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.653 +00:00"
-    },
-    {
-      "pergunta" : "O que é um pontinho preto na história do Pinóquio?",
-      "resposta" : "Gepreto.",
       "updatedAt" : "2017-09-02 06:07:15.653 +00:00",
       "createdAt" : "2017-09-02 06:07:15.653 +00:00"
     },
@@ -6697,20 +6415,8 @@
       "createdAt" : "2017-09-02 06:07:15.653 +00:00"
     },
     {
-      "pergunta" : "Qual é o livro mais fino do mundo?",
-      "resposta" : "Tudo o que os homens sabem sobre as mulheres.",
-      "updatedAt" : "2017-09-02 06:07:15.653 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.653 +00:00"
-    },
-    {
       "pergunta" : "Por que os homens tem a consciência limpa?",
       "resposta" : "Porque nunca a usam...",
-      "updatedAt" : "2017-09-02 06:07:15.653 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.653 +00:00"
-    },
-    {
-      "pergunta" : "O que se deve dar a um homem que pensa que tem tudo?",
-      "resposta" : "Uma mulher para ensiná-lo como funciona!",
       "updatedAt" : "2017-09-02 06:07:15.653 +00:00",
       "createdAt" : "2017-09-02 06:07:15.653 +00:00"
     },
@@ -6765,12 +6471,6 @@
     {
       "pergunta" : "Por que o cavalo entrou em depressão?",
       "resposta" : "Porque descobriu que é um filho d'uma égua.",
-      "updatedAt" : "2017-09-02 06:07:15.654 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.654 +00:00"
-    },
-    {
-      "pergunta" : "Qual a música favorita do japonês punheteiro?",
-      "resposta" : "Meu pintinho amarelinho, cabe aqui na minha mão...",
       "updatedAt" : "2017-09-02 06:07:15.654 +00:00",
       "createdAt" : "2017-09-02 06:07:15.654 +00:00"
     },
@@ -6919,12 +6619,6 @@
       "createdAt" : "2017-09-02 06:07:15.655 +00:00"
     },
     {
-      "pergunta" : "Qual é a expressão politicamente correta para se chamar uma lésbica?",
-      "resposta" : "Vagitariana.",
-      "updatedAt" : "2017-09-02 06:07:15.655 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.655 +00:00"
-    },
-    {
       "pergunta" : "Por que o martelo e a tesoura são hidrocarbonetos?",
       "resposta" : "Porque o martelo é pro-pino e a tesoura é pro-pano.",
       "updatedAt" : "2017-09-02 06:07:15.655 +00:00",
@@ -6939,12 +6633,6 @@
     {
       "pergunta" : "Por que o porco mesmo morto continua feliz?",
       "resposta" : "Porque ele está de bacon a vida.",
-      "updatedAt" : "2017-09-02 06:07:15.655 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.655 +00:00"
-    },
-    {
-      "pergunta" : "O que de manhã pesa 500 quilos, a tarde pesa 200 quilos e a noite pesa 500 gramas?",
-      "resposta" : "A mulher. De dia: Acorda tua Vaca. De tarde: Vai limpar a casa sua Porca. De noite: Vem aqui minha Pombinha.",
       "updatedAt" : "2017-09-02 06:07:15.655 +00:00",
       "createdAt" : "2017-09-02 06:07:15.655 +00:00"
     },
@@ -7035,12 +6723,6 @@
     {
       "pergunta" : "O que é um pontinho amarelo em cima de uma moto?",
       "resposta" : "Ruffles, a batata da Honda.",
-      "updatedAt" : "2017-09-02 06:07:15.655 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.655 +00:00"
-    },
-    {
-      "pergunta" : "Qual é a diferença entre o casamento e a guerra?",
-      "resposta" : "Na guerra você não precisa comer o inimigo.",
       "updatedAt" : "2017-09-02 06:07:15.655 +00:00",
       "createdAt" : "2017-09-02 06:07:15.655 +00:00"
     },
@@ -7249,18 +6931,6 @@
       "createdAt" : "2017-09-02 06:07:15.657 +00:00"
     },
     {
-      "pergunta" : "Saí na rua dizendo que sou gay e que queimo a rosca. Qual o nome do filme?",
-      "resposta" : "Se Eu Fosse Você.",
-      "updatedAt" : "2017-09-02 06:07:15.657 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.657 +00:00"
-    },
-    {
-      "pergunta" : "Qual é o nome da peça de roupa que os anões mais usam?",
-      "resposta" : "Bermiuda.",
-      "updatedAt" : "2017-09-02 06:07:15.657 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.657 +00:00"
-    },
-    {
       "pergunta" : "O que a foca filho falou a foca mãe?",
       "resposta" : "Motherfoca.",
       "updatedAt" : "2017-09-02 06:07:15.657 +00:00",
@@ -7329,12 +6999,6 @@
     {
       "pergunta" : "Como se chama aquele vampiro que ajuda a melhorar a ventilação dos computadores?",
       "resposta" : "O Edward Cooler.",
-      "updatedAt" : "2017-09-02 06:07:15.657 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.657 +00:00"
-    },
-    {
-      "pergunta" : "Um casal de japoneses tinham 20 filhos. Qual é o nome do casal?",
-      "resposta" : "Kissaco e Kioco.",
       "updatedAt" : "2017-09-02 06:07:15.657 +00:00",
       "createdAt" : "2017-09-02 06:07:15.657 +00:00"
     },
@@ -7501,12 +7165,6 @@
       "createdAt" : "2017-09-02 06:07:15.658 +00:00"
     },
     {
-      "pergunta" : "O que o cachorro falou quando viu a cadelinha gostosa passando?",
-      "resposta" : "Oh, meu Deus do cio!",
-      "updatedAt" : "2017-09-02 06:07:15.658 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.658 +00:00"
-    },
-    {
       "pergunta" : "Por que o Barrichello colou um relógio no carro do Schumacher?",
       "resposta" : "Porque ele queria ver o tempo passar.",
       "updatedAt" : "2017-09-02 06:07:15.658 +00:00",
@@ -7515,12 +7173,6 @@
     {
       "pergunta" : "O que é gordinho, barbudo, às vezes entra pela chaminé e faz a festa no fim do ano?",
       "resposta" : "Um ladrão fora de forma.",
-      "updatedAt" : "2017-09-02 06:07:15.658 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.658 +00:00"
-    },
-    {
-      "pergunta" : "O que dá a mistura de um burro com uma tartaruga?",
-      "resposta" : "Uma loira de capacete.",
       "updatedAt" : "2017-09-02 06:07:15.658 +00:00",
       "createdAt" : "2017-09-02 06:07:15.658 +00:00"
     },
@@ -7591,12 +7243,6 @@
       "createdAt" : "2017-09-02 06:07:15.659 +00:00"
     },
     {
-      "pergunta" : "Que ator a namorada do Damon Hill chama quando eles estão transando?",
-      "resposta" : "Matt Damon.",
-      "updatedAt" : "2017-09-02 06:07:15.659 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.659 +00:00"
-    },
-    {
       "pergunta" : "int x = 10; int y = 10; print (x + y); Qual o nome do filme?",
       "resposta" : "O Código dá 20.",
       "updatedAt" : "2017-09-02 06:07:15.659 +00:00",
@@ -7627,12 +7273,6 @@
       "createdAt" : "2017-09-02 06:07:15.659 +00:00"
     },
     {
-      "pergunta" : "Qual é a única piada que não pode ser contada pra um viado?",
-      "resposta" : "Não posso contar pra você.",
-      "updatedAt" : "2017-09-02 06:07:15.659 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.659 +00:00"
-    },
-    {
       "pergunta" : "Por que a cobra agora quer ser escova?",
       "resposta" : "Porque ela cansou de ser pente!",
       "updatedAt" : "2017-09-02 06:07:15.659 +00:00",
@@ -7659,12 +7299,6 @@
     {
       "pergunta" : "A filha convida a mãe para morar com ela e o marido. Qual é o nome do filme?",
       "resposta" : "Como Perder um Homem em 10 Dias.",
-      "updatedAt" : "2017-09-02 06:07:15.659 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.659 +00:00"
-    },
-    {
-      "pergunta" : "Por que viado tem memória fraca?",
-      "resposta" : "Não sabe? Pô, já esqueceu?",
       "updatedAt" : "2017-09-02 06:07:15.659 +00:00",
       "createdAt" : "2017-09-02 06:07:15.659 +00:00"
     },
@@ -7807,12 +7441,6 @@
       "createdAt" : "2017-09-02 06:07:15.660 +00:00"
     },
     {
-      "pergunta" : "O que é um pontinho vermelho na cabeça de uma pessoa?",
-      "resposta" : "Uma piolha menstruada.",
-      "updatedAt" : "2017-09-02 06:07:15.660 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.660 +00:00"
-    },
-    {
       "pergunta" : "Por que o policial não gosta de sabão em pó?",
       "resposta" : "Porque ele prefere deter-gente.",
       "updatedAt" : "2017-09-02 06:07:15.660 +00:00",
@@ -7851,12 +7479,6 @@
     {
       "pergunta" : "O que é um pontinho fofinho, bonitinho e todo riscado de vermelho?",
       "resposta" : "Um bebê brincando com um gillette.",
-      "updatedAt" : "2017-09-02 06:07:15.660 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.660 +00:00"
-    },
-    {
-      "pergunta" : "Por que a Pantera Cor-de-Rosa anda com o rabo levantado?",
-      "resposta" : "Pra dá, pra dá, pra dá, pra dá, pra dá, pra dá, pra daaaaaá...",
       "updatedAt" : "2017-09-02 06:07:15.660 +00:00",
       "createdAt" : "2017-09-02 06:07:15.660 +00:00"
     },
@@ -7917,12 +7539,6 @@
     {
       "pergunta" : "Por que as rodas do trem são de ferro?",
       "resposta" : "Porque se fossem de borracha apagariam a linha.",
-      "updatedAt" : "2017-09-02 06:07:15.660 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.660 +00:00"
-    },
-    {
-      "pergunta" : "Como é conhecida a profissão do médico ginecologista em Portugal?",
-      "resposta" : "Espião da casa do caralho.",
       "updatedAt" : "2017-09-02 06:07:15.660 +00:00",
       "createdAt" : "2017-09-02 06:07:15.660 +00:00"
     },
@@ -7989,18 +7605,6 @@
     {
       "pergunta" : "O que é que tem duas asas mas não voa, dois pés mas não caminha, dois olhos mas não enxerga?",
       "resposta" : "Um pássaro morto!",
-      "updatedAt" : "2017-09-02 06:07:15.661 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.661 +00:00"
-    },
-    {
-      "pergunta" : "O Pinto e a Pinta foram para o motel, quem pagou a conta?",
-      "resposta" : "A Pinta, porque o Pinto estava duro.",
-      "updatedAt" : "2017-09-02 06:07:15.661 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.661 +00:00"
-    },
-    {
-      "pergunta" : "O que é que tem quatro patas mas não anda?",
-      "resposta" : "Um cachorro tetraplégico.",
       "updatedAt" : "2017-09-02 06:07:15.661 +00:00",
       "createdAt" : "2017-09-02 06:07:15.661 +00:00"
     },
@@ -8191,26 +7795,8 @@
       "createdAt" : "2017-09-02 06:07:15.662 +00:00"
     },
     {
-      "pergunta" : "Qual é a diferença entre a puta e o sábio?",
-      "resposta" : "Pelo sábio, passam muitas coisas pela cabeça, e pela puta, passam muitas cabeças pela coisa.",
-      "updatedAt" : "2017-09-02 06:07:15.662 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.662 +00:00"
-    },
-    {
-      "pergunta" : "Qual é a definição de fazer amor?",
-      "resposta" : "Uma coisa que as mulheres fazem enquanto os homens estão trepando.",
-      "updatedAt" : "2017-09-02 06:07:15.662 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.662 +00:00"
-    },
-    {
       "pergunta" : "O que é um ponto na quadra de vôlei?",
       "resposta" : "É quando a bola toca na quadra adversária.",
-      "updatedAt" : "2017-09-02 06:07:15.662 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.662 +00:00"
-    },
-    {
-      "pergunta" : "O que o japonês faz quando tem ereção?",
-      "resposta" : "Vota.",
       "updatedAt" : "2017-09-02 06:07:15.662 +00:00",
       "createdAt" : "2017-09-02 06:07:15.662 +00:00"
     },
@@ -8251,12 +7837,6 @@
       "createdAt" : "2017-09-02 06:07:15.662 +00:00"
     },
     {
-      "pergunta" : "Qual o resultado do cruzamento entre um japonês com um pavão?",
-      "resposta" : "Um espanador de cabo curto.",
-      "updatedAt" : "2017-09-02 06:07:15.662 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.662 +00:00"
-    },
-    {
       "pergunta" : "Qual a diferença entre homens e porcos?",
       "resposta" : "Porcos não viram homens quando bebem.",
       "updatedAt" : "2017-09-02 06:07:15.662 +00:00",
@@ -8265,12 +7845,6 @@
     {
       "pergunta" : "Por que são necessários milhões de espermatozoides para fertilizar um único óvulo?",
       "resposta" : "Porque os espermatozoides são masculinos e se negam a perguntar o caminho.",
-      "updatedAt" : "2017-09-02 06:07:15.662 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.662 +00:00"
-    },
-    {
-      "pergunta" : "Qual a diferença entre um menino de 4 anos e um velho de 70?",
-      "resposta" : "O menino acha que o seu bingulinho é só para fazer xixi. O velho tem certeza.",
       "updatedAt" : "2017-09-02 06:07:15.662 +00:00",
       "createdAt" : "2017-09-02 06:07:15.662 +00:00"
     },
@@ -8323,12 +7897,6 @@
       "createdAt" : "2017-09-02 06:07:15.662 +00:00"
     },
     {
-      "pergunta" : "Por que Juan Domingo Perón não teve filhos?",
-      "resposta" : "Porque sua mulher Evita.",
-      "updatedAt" : "2017-09-02 06:07:15.662 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.662 +00:00"
-    },
-    {
       "pergunta" : "Por que Moisés ficou andando 40 anos no deserto com o povo de Israel?",
       "resposta" : "Porque um homem nunca pergunta o caminho.",
       "updatedAt" : "2017-09-02 06:07:15.662 +00:00",
@@ -8337,12 +7905,6 @@
     {
       "pergunta" : "O que você faz quando se machuca?",
       "resposta" : "Compra um Citroën Quisara.",
-      "updatedAt" : "2017-09-02 06:07:15.662 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.662 +00:00"
-    },
-    {
-      "pergunta" : "Qual a diferença entre Michael Jackson e um saco de supermercado?",
-      "resposta" : "Um é feito de plástico e é perigoso para crianças, o outro serve para a gente carregar as compras.",
       "updatedAt" : "2017-09-02 06:07:15.662 +00:00",
       "createdAt" : "2017-09-02 06:07:15.662 +00:00"
     },
@@ -8421,12 +7983,6 @@
     {
       "pergunta" : "O que é Texaco?",
       "resposta" : "É ter paxiênxia.",
-      "updatedAt" : "2017-09-02 06:07:15.663 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.663 +00:00"
-    },
-    {
-      "pergunta" : "Seu cachorro está latindo no quintal e sua esposa gritando no jardim, quem você deixa entrar primeiro?",
-      "resposta" : "O cachorro é claro. Ele vai calar a boca assim que entrar.",
       "updatedAt" : "2017-09-02 06:07:15.663 +00:00",
       "createdAt" : "2017-09-02 06:07:15.663 +00:00"
     },
@@ -8533,12 +8089,6 @@
       "createdAt" : "2017-09-02 06:07:15.663 +00:00"
     },
     {
-      "pergunta" : "Por que as surdas-mudas se masturbam apenas com uma mão?",
-      "resposta" : "Porque com a outra elas gemem.",
-      "updatedAt" : "2017-09-02 06:07:15.663 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.663 +00:00"
-    },
-    {
       "pergunta" : "Qual é o site do cavalo?",
       "resposta" : "www.cavalo.com.com.com.com.com...",
       "updatedAt" : "2017-09-02 06:07:15.663 +00:00",
@@ -8623,20 +8173,8 @@
       "createdAt" : "2017-09-02 06:07:15.664 +00:00"
     },
     {
-      "pergunta" : "Qual a diferença entre catástrofe e tragédia?",
-      "resposta" : "Catástrofe é quando a sua mulher vai com a família fazer um cruzeiro pelo Atlântico e o navio afunda. Tragédia é quando você fica sabendo que o único sobrevivente foi a sua sogra!",
-      "updatedAt" : "2017-09-02 06:07:15.664 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.664 +00:00"
-    },
-    {
       "pergunta" : "O que é que tem rabo de porco, mas não é porco. Pé de porco mas não é porco. Costela de porco, mas não é porco?",
       "resposta" : "Feijoada.",
-      "updatedAt" : "2017-09-02 06:07:15.664 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.664 +00:00"
-    },
-    {
-      "pergunta" : "Como se chama um japonês com o pênis grande?",
-      "resposta" : "Kasoraro.",
       "updatedAt" : "2017-09-02 06:07:15.664 +00:00",
       "createdAt" : "2017-09-02 06:07:15.664 +00:00"
     },
@@ -8743,12 +8281,6 @@
       "createdAt" : "2017-09-02 06:07:15.665 +00:00"
     },
     {
-      "pergunta" : "Qual é o verdadeiro cheiro verde?",
-      "resposta" : "O peido do Hulk.",
-      "updatedAt" : "2017-09-02 06:07:15.665 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.665 +00:00"
-    },
-    {
       "pergunta" : "O que é que quanto mais limpo, mais sujo fica?",
       "resposta" : "Pano de chão.",
       "updatedAt" : "2017-09-02 06:07:15.665 +00:00",
@@ -8821,12 +8353,6 @@
       "createdAt" : "2017-09-02 06:07:15.665 +00:00"
     },
     {
-      "pergunta" : "Por que a China tem a maior população do mundo?",
-      "resposta" : "Porque lá eles comem com dois pauzinhos.",
-      "updatedAt" : "2017-09-02 06:07:15.665 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.665 +00:00"
-    },
-    {
       "pergunta" : "O  que o Carbono disse quando foi preso?",
       "resposta" : "Eu tenho direito a 4 ligações.",
       "updatedAt" : "2017-09-02 06:07:15.665 +00:00",
@@ -8839,20 +8365,8 @@
       "createdAt" : "2017-09-02 06:07:15.665 +00:00"
     },
     {
-      "pergunta" : "Como os portugueses fazem os abortos?",
-      "resposta" : "Jogam pedra na cegonha.",
-      "updatedAt" : "2017-09-02 06:07:15.665 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.665 +00:00"
-    },
-    {
       "pergunta" : "Em que lugar a mosca é maior que o boi?",
       "resposta" : "No dicionário.",
-      "updatedAt" : "2017-09-02 06:07:15.665 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.665 +00:00"
-    },
-    {
-      "pergunta" : "Qual a diferença entre uma namorada e uma esposa?",
-      "resposta" : "30 quilos.",
       "updatedAt" : "2017-09-02 06:07:15.665 +00:00",
       "createdAt" : "2017-09-02 06:07:15.665 +00:00"
     },
@@ -8907,12 +8421,6 @@
     {
       "pergunta" : "Quando o esquimó pisou no iglu, o iglu explodiu. Qual o nome do filme?",
       "resposta" : "O ilgu minado",
-      "updatedAt" : "2017-09-02 06:07:15.665 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.665 +00:00"
-    },
-    {
-      "pergunta" : "Um homem baixinho tinha o lábio muito grande, e quando ele caminhava seu lábio balançava. Qual o nome do filme?",
-      "resposta" : "Anão que balança o beiço.",
       "updatedAt" : "2017-09-02 06:07:15.665 +00:00",
       "createdAt" : "2017-09-02 06:07:15.665 +00:00"
     },
@@ -9093,12 +8601,6 @@
     {
       "pergunta" : "O que dá a mistura de seu advogado e sua sogra ?",
       "resposta" : "O seu fim.",
-      "updatedAt" : "2017-09-02 06:07:15.666 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.666 +00:00"
-    },
-    {
-      "pergunta" : "Como se diz esmola em japonês?",
-      "resposta" : "Taka nikel naka neka.",
       "updatedAt" : "2017-09-02 06:07:15.666 +00:00",
       "createdAt" : "2017-09-02 06:07:15.666 +00:00"
     },
@@ -9307,12 +8809,6 @@
       "createdAt" : "2017-09-02 06:07:15.667 +00:00"
     },
     {
-      "pergunta" : "Qual a semelhança entre o Papai Noel e o padre?",
-      "resposta" : "O saco é de brinquedo.",
-      "updatedAt" : "2017-09-02 06:07:15.667 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.667 +00:00"
-    },
-    {
       "pergunta" : "Qual o animal atravessa o rio com um boi na boca?",
       "resposta" : "O carrapato.",
       "updatedAt" : "2017-09-02 06:07:15.667 +00:00",
@@ -9451,12 +8947,6 @@
       "createdAt" : "2017-09-02 06:07:15.669 +00:00"
     },
     {
-      "pergunta" : "Estavam num elevador o Lula e o Vicentinho, e Vicentinho solta um peido. Qual o nome do filme?",
-      "resposta" : "O que é isso companheiro?",
-      "updatedAt" : "2017-09-02 06:07:15.669 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.669 +00:00"
-    },
-    {
       "pergunta" : "Um tênis afundou no meio do mar. Qual o nome do filme?",
       "resposta" : "TitaNIKE.",
       "updatedAt" : "2017-09-02 06:07:15.669 +00:00",
@@ -9489,12 +8979,6 @@
     {
       "pergunta" : "Em uma sorveteria,um sorvete estava brigando com outro. Qual o nome do filme?",
       "resposta" : "Creme versus creme.",
-      "updatedAt" : "2017-09-02 06:07:15.669 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.669 +00:00"
-    },
-    {
-      "pergunta" : "Qual a semelhança entre uma árvore de natal e um padre?",
-      "resposta" : "As bolas são só de enfeite.",
       "updatedAt" : "2017-09-02 06:07:15.669 +00:00",
       "createdAt" : "2017-09-02 06:07:15.669 +00:00"
     },
@@ -9661,12 +9145,6 @@
       "createdAt" : "2017-09-02 06:07:15.671 +00:00"
     },
     {
-      "pergunta" : "Por que o japonês não pode ser eletricista?",
-      "resposta" : "Porque tem um curto no meio das pernas.",
-      "updatedAt" : "2017-09-02 06:07:15.671 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.671 +00:00"
-    },
-    {
       "pergunta" : "Qual a diferença entre o jumento e o chuveiro?",
       "resposta" : "Entre debaixo do jumento que você vê a diferença.",
       "updatedAt" : "2017-09-02 06:07:15.671 +00:00",
@@ -9705,12 +9183,6 @@
     {
       "pergunta" : "Numa cidade havia muitas motos Yamaha e só duas Honda. Qual o nome do filme?",
       "resposta" : "Poca Honda.",
-      "updatedAt" : "2017-09-02 06:07:15.671 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.671 +00:00"
-    },
-    {
-      "pergunta" : "A Ana Maria Braga chamou a Hebe de perua. Qual é o nome do filme?",
-      "resposta" : "Olha Quem Está Falando.",
       "updatedAt" : "2017-09-02 06:07:15.671 +00:00",
       "createdAt" : "2017-09-02 06:07:15.671 +00:00"
     },
@@ -9759,12 +9231,6 @@
     {
       "pergunta" : "Qual a semelhança entre sabonete de família e festa de criança?",
       "resposta" : "Sempre tem um pentelho que ninguém sabe de quem é.",
-      "updatedAt" : "2017-09-02 06:07:15.671 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.671 +00:00"
-    },
-    {
-      "pergunta" : "Como se diz topless em japonês?",
-      "resposta" : "Shen Xu Tian.",
       "updatedAt" : "2017-09-02 06:07:15.671 +00:00",
       "createdAt" : "2017-09-02 06:07:15.671 +00:00"
     },
@@ -9837,12 +9303,6 @@
     {
       "pergunta" : "O que o tijolo falou pra tijola?",
       "resposta" : "Tem um ciumento entre nós.",
-      "updatedAt" : "2017-09-02 06:07:15.672 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.672 +00:00"
-    },
-    {
-      "pergunta" : "Qual a semelhança entre um entregador de pizza e um ginecologista?",
-      "resposta" : "Os dois sentem o cheiro mais não pode comer.",
       "updatedAt" : "2017-09-02 06:07:15.672 +00:00",
       "createdAt" : "2017-09-02 06:07:15.672 +00:00"
     },
@@ -10003,24 +9463,6 @@
       "createdAt" : "2017-09-02 06:07:15.678 +00:00"
     },
     {
-      "pergunta" : "O que é um pontinho rosa na geladeira?",
-      "resposta" : "Um gaytorade.",
-      "updatedAt" : "2017-09-02 06:07:15.678 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.678 +00:00"
-    },
-    {
-      "pergunta" : "O que são cinco pontinhos pretos no palco, dançando e cantando?",
-      "resposta" : "Os Black Street Boys.",
-      "updatedAt" : "2017-09-02 06:07:15.678 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.678 +00:00"
-    },
-    {
-      "pergunta" : "Por que a aranha viúva negra simplesmente mata o macho logo depois de acasalarem?",
-      "resposta" : "Para evitar que ele ronque.",
-      "updatedAt" : "2017-09-02 06:07:15.678 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.678 +00:00"
-    },
-    {
       "pergunta" : "O diabo tinha uma mania terrível de ler gibi, quando ia ao cinema. Qual o nome do filme?",
       "resposta" : "O Demo leitor.",
       "updatedAt" : "2017-09-02 06:07:15.678 +00:00",
@@ -10081,12 +9523,6 @@
       "createdAt" : "2017-09-02 06:07:15.678 +00:00"
     },
     {
-      "pergunta" : "Por que Deus criou primeiro o Adão depois a Eva?",
-      "resposta" : "Primeiro o rascunho depois o definitivo.",
-      "updatedAt" : "2017-09-02 06:07:15.678 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.678 +00:00"
-    },
-    {
       "pergunta" : "O homem caiu da moto de bunda. Qual o nome do filme?",
       "resposta" : "Em-cu-ralado.",
       "updatedAt" : "2017-09-02 06:07:15.678 +00:00",
@@ -10129,38 +9565,14 @@
       "createdAt" : "2017-09-02 06:07:15.679 +00:00"
     },
     {
-      "pergunta" : "Quais são os quatro maiores desejos do homem?",
-      "resposta" : "Ser tão bonito quanto a mãe dele acha que ele é; transar com todas as mulheres que a esposa acha que ele transa; ser tão rico quanto seu filho acha que ele é; ser tão bom de cama quanto ele acha que é.",
-      "updatedAt" : "2017-09-02 06:07:15.679 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.679 +00:00"
-    },
-    {
-      "pergunta" : "Quantas bichas são necessárias para se trocar uma lâmpada?",
-      "resposta" : "Seis. Uma para dar um grito histérico quando a luz acabar, uma para trocar a lâmpada e quatro para fazerem uma algazarra enorme quando a luz acender.",
-      "updatedAt" : "2017-09-02 06:07:15.679 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.679 +00:00"
-    },
-    {
       "pergunta" : "Qual a semelhança entre o casamento e o submarino?",
       "resposta" : "Os dois podem até boiar, mas foram feitos para afundar.",
       "updatedAt" : "2017-09-02 06:07:15.679 +00:00",
       "createdAt" : "2017-09-02 06:07:15.679 +00:00"
     },
     {
-      "pergunta" : "Qual a diferença entre o advogado e a prostituta?",
-      "resposta" : "A prostituta para de te foder quando acaba o dinheiro.",
-      "updatedAt" : "2017-09-02 06:07:15.679 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.679 +00:00"
-    },
-    {
       "pergunta" : "O que um cão pensa quando vê uma árvore de Natal?",
       "resposta" : "Finalmente colocaram luz no banheiro.",
-      "updatedAt" : "2017-09-02 06:07:15.679 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.679 +00:00"
-    },
-    {
-      "pergunta" : "O que dá o cruzamento entre um burro e uma tartaruga?",
-      "resposta" : "Uma loira de capacete.",
       "updatedAt" : "2017-09-02 06:07:15.679 +00:00",
       "createdAt" : "2017-09-02 06:07:15.679 +00:00"
     },
@@ -10221,12 +9633,6 @@
     {
       "pergunta" : "O que dá misturar um homem invisível com um elefante?",
       "resposta" : "Um enorme nada.",
-      "updatedAt" : "2017-09-02 06:07:15.679 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.679 +00:00"
-    },
-    {
-      "pergunta" : "O que é um pontinho rosa na estrada?",
-      "resposta" : "É uma Mitsubicha.",
       "updatedAt" : "2017-09-02 06:07:15.679 +00:00",
       "createdAt" : "2017-09-02 06:07:15.679 +00:00"
     },
@@ -10423,12 +9829,6 @@
       "createdAt" : "2017-09-02 06:07:15.680 +00:00"
     },
     {
-      "pergunta" : "O homem caiu de um prédio, mas enquanto ainda estava no ar, viu passando uma gostosa. Qual é o nome do filme?",
-      "resposta" : "Duro na Queda.",
-      "updatedAt" : "2017-09-02 06:07:15.680 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.680 +00:00"
-    },
-    {
       "pergunta" : "O homem era hortista, ma deixou a profissão. Qual é o nome do filme?",
       "resposta" : "O ex-hortista.",
       "updatedAt" : "2017-09-02 06:07:15.680 +00:00",
@@ -10573,12 +9973,6 @@
       "createdAt" : "2017-09-02 06:07:15.681 +00:00"
     },
     {
-      "pergunta" : "Qual é o feminino de: Deitado na sala lendo jornal?",
-      "resposta" : "De pé na pia lavando louça.",
-      "updatedAt" : "2017-09-02 06:07:15.681 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.681 +00:00"
-    },
-    {
       "pergunta" : "O que se quebra só de se pronunciar o nome?",
       "resposta" : "O silêncio.",
       "updatedAt" : "2017-09-02 06:07:15.681 +00:00",
@@ -10639,12 +10033,6 @@
       "createdAt" : "2017-09-02 06:07:15.681 +00:00"
     },
     {
-      "pergunta" : "O que dá a mistura de uma bicha com um papagaio?",
-      "resposta" : "Um veado que fala.",
-      "updatedAt" : "2017-09-02 06:07:15.681 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.681 +00:00"
-    },
-    {
       "pergunta" : "Qual a palavra de oito letras que tirando quatro continua oito?",
       "resposta" : "Biscoito.",
       "updatedAt" : "2017-09-02 06:07:15.681 +00:00",
@@ -10679,12 +10067,6 @@
       "resposta" : "Porque estão procurando a raiz quadrada.",
       "updatedAt" : "2017-09-02 06:07:15.681 +00:00",
       "createdAt" : "2017-09-02 06:07:15.681 +00:00"
-    },
-    {
-      "pergunta" : "Qual a semelhança entre o homem e a menstruação?",
-      "resposta" : "Quando vem é um saco, mas quando não vem a gente fica preocupada.",
-      "updatedAt" : "2017-09-02 06:07:15.682 +00:00",
-      "createdAt" : "2017-09-02 06:07:15.682 +00:00"
     },
     {
       "pergunta" : "Como é que os homens fazem exercício na praia?",
